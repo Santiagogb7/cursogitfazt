@@ -1,1 +1,1 @@
-Este es unproyecto de mi curso de git fazt youtube
+Este es el proyecto de mi curso de git fazt youtube
